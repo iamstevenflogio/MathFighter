@@ -6,7 +6,7 @@ import MathFighterScene from './MathFighterScene'
 const config = {
 	type: Phaser.AUTO,
 	parent: 'app',
-	width: 450,
+	width: 480,
 	height: 650,
 	physics: {
 		default: 'arcade',
